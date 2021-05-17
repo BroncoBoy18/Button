@@ -1,1 +1,1 @@
-Welcoe to my testing game for TwoCansAndString's API
+Welcome to my testing game for TwoCansAndString's game API
