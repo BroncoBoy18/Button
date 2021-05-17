@@ -1,2 +1,13 @@
-EventType.MOUSE_PRESS[69/69]
+main()
+{
+   int gd = DETECT,gm,left=100,top=100,right=200,bottom=200,x= 300,y=150,radius=50;
 
+  
+
+   
+   circle(0, 0, 500);
+   
+   getch();
+   closegraph();
+   return 0;
+}
